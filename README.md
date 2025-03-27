@@ -14,3 +14,4 @@ num_bikes = sum(1 for item in items if item['type'] == 'bike')
 print(f"Number of bikes: {num_bikes}")
 num_bikes
     {'type': 'bike', 'color': 'red'},
+# bice
